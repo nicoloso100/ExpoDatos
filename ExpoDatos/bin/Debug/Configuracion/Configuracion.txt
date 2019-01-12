@@ -1,0 +1,5 @@
+server=localhost;port=3306;database=anacostel;Uid=root;pwd=0315
+10.0.2.15
+4141
+10.0.2.15
+1111
